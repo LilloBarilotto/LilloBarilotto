@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LilloBarilotto (Guzzone Sebastiano)
-- 👀 I’m interested in technology and programming
-- 🌱 I’m currently learning Computer Science at Politecnico di Torino (Polytechnic of Turin)
+- 👀 I’m interested in technology and programming, in particular computer networks!
+- 🌱 I am currently enrolled in a master's course in computer engineering, "Cloud and Network Infrastructures" orientation at Politecnico di Torino.
 - 📫 How to reach me? 
   - sebastiano.guzzone@hknpolito.org If you want to collaborate with Mu Nu Chapter of IEEE-HKN
   - lillobarilotto22@gmail.com for any reason
